@@ -56,7 +56,7 @@
 
 - To Delete a git branch, use this command **`git branch -d <branch-name> `** 
 
-## **COLLABORATION AND REMOTE REPOSITORIES**
+ ## **COLLABORATION AND REMOTE REPOSITORIES**
 - Create a git hub account for the [Github site](https://github.com/)
 
 - ## *Create a repository*
@@ -129,7 +129,7 @@
   <li>Fourth item</li>
 </ul> 
 
-  Links
+- Links
 
   To create a link, enclose the link text in brackets (e.g., [Duck Duck Go]) and then follow it immediately with the URL in parentheses e.g My favorite search engine is [Duck Duck Go](https://duckduckgo.com)
 
