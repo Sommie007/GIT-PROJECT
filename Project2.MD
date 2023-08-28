@@ -25,6 +25,7 @@
 - Add your changes to the staging area using this command **`git add . `**
 
 - Commit your changes using this command **`git commit -m "initial commit `**
+
 ![git commit](https://github.com/Sommie007/GIT-PROJECT/assets/139817771/6b8bfdaa-c08b-4a48-b7fd-6dc63905699d)
 
 ## ***WORKING WITH BRANCHES***
