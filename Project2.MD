@@ -129,10 +129,10 @@
   <li>Fourth item</li>
 </ul> 
 
-- Links
+ - Links
 
-  To create a link, enclose the link text in brackets (e.g., [Duck Duck Go]) and then follow it immediately with the URL in parentheses e.g My favorite search engine is [Duck Duck Go](https://duckduckgo.com)
+    To create a link, enclose the link text in brackets (e.g., [Duck Duck Go]) and then follow it immediately with the URL in parentheses e.g My favorite search engine is [Duck Duck Go](https://duckduckgo.com)
 
-  This link [mark documentation](https://learn.microsoft.com/en-us/contribute/content/markdown-reference) would assist with more markdown syntax.
+    This link [mark documentation](https://learn.microsoft.com/en-us/contribute/content/markdown-reference) would assist with more markdown syntax.
 
-  ### ***Thank you !!!***
+     ### ***Thank you !!!***
