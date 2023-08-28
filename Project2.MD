@@ -39,7 +39,7 @@
 
 - To list your git branch, use the command **`git branch`**
 
-![git branch -d](https://github.com/Sommie007/GIT-PROJECT/assets/139817771/6f5e8d02-c442-4b1c-862e-b896fb42cbc5)
+  ![git branch -d](https://github.com/Sommie007/GIT-PROJECT/assets/139817771/6f5e8d02-c442-4b1c-862e-b896fb42cbc5)
 
 - ## *Change into an old branch*
 
